@@ -1,0 +1,21 @@
+My associate id:
+845108
+Other team members:
+845086, 844526, 845024, 845109
+
+Team lead:
+845108
+
+My Role in team:
+1. To develop homepage
+2. Making all other pages responsive
+3. Integrate all other pages
+
+My development files:
+1. index.html
+
+I was weak in:
+1. Making pages responsive
+
+Feedback:
+1. Able to read codesprint document 2 day in advance will help.
